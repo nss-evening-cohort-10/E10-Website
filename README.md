@@ -1,10 +1,10 @@
 # NSS E10 Class Website
 
 ## Instructions for how to run the project
-* Clone down this project from [Github](#).
-* Install [http-server](https://www.npmjs.com/package/http-server) from npm.
-* At the root of this project, run the following command: `hs -p 8080`.
-* In your browser, navigate to `https://localhost:8080/`;
+* Clone down this project from [Github](https://github.com/nss-evening-cohort-10/E10-Website).
+* Install Node Modules with: `npm install`
+* `$ npm start`
+* Or your browser, navigate to `https://localhost:8080/`;
 
 ## Contributors
 * [Evan Grabenstein](https://github.com/evangdesigns)
