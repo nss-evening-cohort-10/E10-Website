@@ -1,0 +1,221 @@
+{
+  "developer1": {
+    "picture": "",
+    "Name": "Alesha Reed",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer2": {
+    "picture": "",
+    "Name": "Ashley Claiborne",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer3": {
+    "picture": "",
+    "Name": "Charity Bunyon",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer4": {
+    "picture": "",
+    "Name": "Connor Sullivan",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer5": {
+    "picture": "",
+    "Name": "Crystal Broach",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer6": {
+    "picture": "",
+    "Name": "Denise Baker",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "l",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer7": {
+    "picture": "",
+    "Name": "Emilee Mitchell",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer8": {
+    "picture": "",
+    "Name": "Evan G",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer9": {
+    "picture": "",
+    "Name": "Gabe Seals",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer10": {
+    "picture": "",
+    "Name": "Ivan Phelps",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer11": {
+    "picture": "",
+    "Name": "Jacob Best-Wittenberg",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+  
+  "developer12": {
+    "picture": "",
+    "Name": "Jamie Phillips",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+  
+  "developer13": {
+    "picture": "",
+    "Name": "John Key",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+  
+  "developer14": {
+    "picture": "",
+    "Name": "John Thielman",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+  
+  "developer15": {
+    "picture": "",
+    "Name": "Kelsey Creel",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+  
+  "developer16": {
+    "picture": "",
+    "Name": "Laura Collins",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+  
+  "developer17": {
+    "picture": "",
+    "Name": "Maria Brock",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+
+  "developer18": {
+    "picture": "",
+    "Name": "Monica Djunaidi",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    },
+    
+  "developer19": {
+    "picture": "",
+    "name": "Randy Tate",
+    "resume": "",
+    "github": "https://github.com/rtate2",
+    "website": "",
+    "linkedIn": "linkedin.com/in/randytatejr",
+    "email": "randytatejr@gmail.com",
+    "isHired": false
+    },
+    
+  "developer20": {
+    "picture": "",
+    "Name": "Raymond Arceneaux",
+    "Resume": "",
+    "Github": "",
+    "Website": "",
+    "LinkedIn": "",
+    "Email": "",
+    "isHired": false
+    }
+}
