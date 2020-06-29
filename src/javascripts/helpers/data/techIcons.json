@@ -1,0 +1,28 @@
+{
+  "4c": {
+    "sass": "src/images/techIcons/4c/sass_icon.png",
+    "css": "src/images/techIcons/4c/css3_icon.png",
+    "html": "src/images/techIcons/4c/html5_icon.png",
+    "jquery": "src/images/techIcons/4c/jQuery_icon.png",
+    "react": "src/images/techIcons/4c/react_icon.png",
+    "bootstrap": "src/images/techIcons/4c/bootstrap_icon.png",
+    "javascript": "src/images/techIcons/4c/javascript_icon.png",
+    "sql": "src/images/techIcons/4c/tSql_icon.png",
+    "csharp": "src/images/techIcons/4c/cSharp_icon.png",
+    "dotnet": "src/images/techIcons/4c/netCore_icon.png",
+    "webpack": "src/images/techIcons/4c/webpack_icon.png"
+  },
+  "c19": {
+    "bootstrap": "src/images/techIcons/c19/bootstrap_icon.png",
+    "csharp": "src/images/techIcons/c19/cSharp_icon.png",
+    "css": "src/images/techIcons/c19/css3_icon.png",
+    "html": "src/images/techIcons/c19/html5_icon.png",
+    "javascript": "src/images/techIcons/c19/javascript_icon.png",
+    "jquery": "src/images/techIcons/c19/jQuery_icon.png",
+    "dotnet": "src/images/techIcons/c19/netCore_icon.png",
+    "react": "src/images/techIcons/c19/react_icon.png",
+    "sass": "src/images/techIcons/c19/sass_icon.png",
+    "sql": "src/images/techIcons/c19/tSql_icon.png",
+    "webpack": "src/images/techIcons/c19/webpack_icon.png"
+  }
+}
