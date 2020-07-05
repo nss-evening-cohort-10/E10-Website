@@ -11,9 +11,9 @@
     },
 
   "developer2": {
-    "picture": "",
+    "picture": "src/images/headshots/AshleyClaiborne.jpg",
     "name": "Ashley Claiborne",
-    "resume": "",
+    "resume": "src/resumes/AshleyClaiborne_Resume.pdf",
     "github": "https://github.com/aclai4067",
     "website": "https://ashleyclaiborne.dev/",
     "linkedIn": "https://www.linkedin.com/in/ashley-claiborne/",
@@ -22,9 +22,9 @@
     },
 
   "developer3": {
-    "picture": "",
+    "picture": "src/images/headshots/CharityBunyon.jpeg",
     "name": "Charity Bunyon",
-    "resume": "",
+    "resume": "src/resumes/CharityBunyon_Resume.pdf",
     "github": "https://github.com/CharityBunyon",
     "website": "https://charitybunyon.com/",
     "linkedIn": "https://www.linkedin.com/in/charity-bunyon/",
@@ -90,7 +90,7 @@
   "developer9": {
     "picture": "",
     "name": "Gabriel Seals",
-    "resume": "",
+    "resume": "src/resumes/GabrielSeal_Resume.pdf",
     "github": "https://github.com/gseals",
     "website": "https://gabrielseals.com/",
     "linkedIn": "https://www.linkedin.com/in/gabeseals/",
@@ -167,7 +167,7 @@
   "developer16": {
     "picture": "",
     "name": "Laura Collins",
-    "resume": "",
+    "resume": "src/resumes/LauraCollins_Resume.pdf",
     "github": "https://github.com/LaCollins",
     "website": "https://lauracollins.dev/",
     "linkedIn": "https://www.linkedin.com/in/laura-e-collins/",
@@ -189,7 +189,7 @@
   "developer18": {
     "picture": "",
     "name": "Monica Djunaidi",
-    "resume": "",
+    "resume": "src/resumes/MonicaDjunaidi_Resume.pdf",
     "github": "github.com/djunaim",
     "website": "personal-website65796.firebaseapp.com",
     "linkedIn": "linkedin.com/in/monicadjunaidi/",
