@@ -75,6 +75,25 @@ footer {
   }
 }
 
+.side-margins {
+  margin-right: 10em;
+  margin-left: 10em;
+}
+
+#tech-icon-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.tech-icon {
+  height: 6.5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 5em;
+  margin-left: 5em;
+}
+
 .thanks-alumni {
   padding-left: 10%;
   padding-right: 10%;
