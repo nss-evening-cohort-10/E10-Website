@@ -9,8 +9,9 @@ body {
     margin: 0;
 }
 .section{
-  padding: 100px 0 20px;
+  padding: 100px 10% 20px;
 }
+
 p {
   font-size: $para;
 }
@@ -74,15 +75,18 @@ footer {
     }
   }
 }
+
 .side-margins {
   margin-right: 10em;
   margin-left: 10em;
 }
+
 #tech-icon-container {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
 }
+
 .tech-icon {
   height: 6.5em;
   margin-top: 1em;
