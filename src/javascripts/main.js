@@ -16,7 +16,6 @@ const regularIconsToDom = () => {
   <img class="tech-icon" src="${regular.jquery}" alt="jQuery icon" />
   <img class="tech-icon"src="${regular.webpack}" alt="Webpack icon" />
   <img class="tech-icon" src="${regular.react}" alt="React icon" />
-  <a href="src/resumes/LauraCollins_Resume.pdf">Gabe's Resume</a>
   `;
   utl.printToDom('tech-icon-container', domString);
 };

@@ -33,7 +33,7 @@
     },
 
   "developer4": {
-    "picture": "",
+    "picture": "src/images/headshots/ConnorSullivan.png",
     "name": "Connor Sullivan",
     "resume": "",
     "github": "github.com/ConnorSullivan10",
@@ -44,7 +44,7 @@
     },
 
   "developer5": {
-    "picture": "",
+    "picture": "src/images/headshots/CrystalBroach.jpg",
     "name": "Crystal Broach",
     "resume": "",
     "github": "https://github.com/broach44",
@@ -55,7 +55,7 @@
     },
 
   "developer6": {
-    "picture": "",
+    "picture": "src/images/headshots/DeniseBaker.jpg",
     "name": "Denise Baker",
     "resume": "",
     "github": "https://github.com/denzelb5",
@@ -66,7 +66,7 @@
     },
 
   "developer7": {
-    "picture": "",
+    "picture": "src/images/headshots/EmileeMitchell.jpeg",
     "name": "Emilee Mitchell",
     "resume": "",
     "github": "https://github.com/EmileeA",
@@ -77,7 +77,7 @@
     },
 
   "developer8": {
-    "picture": "",
+    "picture": "src/images/headshots/EvanG.jpg",
     "name": "Evan Grabenstein",
     "resume": "",
     "github": "https://github.com/evangdesigns",
@@ -110,7 +110,7 @@
     },
 
   "developer11": {
-    "picture": "",
+    "picture": "src/images/headshots/JacobBest-Wittenberg.jpg",
     "name": "Jacob Best-Wittenberg",
     "resume": "",
     "github": "github.com/jacob-bw",
@@ -143,7 +143,7 @@
     },
   
   "developer14": {
-    "picture": "",
+    "picture": "src/images/headshots/JohnThielman.jpeg",
     "name": "John Thielman",
     "resume": "",
     "github": "https://github.com/jthielman",
@@ -165,7 +165,7 @@
     },
   
   "developer16": {
-    "picture": "",
+    "picture": "src/images/headshots/LauraCollins.jpg",
     "name": "Laura Collins",
     "resume": "src/resumes/LauraCollins_Resume.pdf",
     "github": "https://github.com/LaCollins",
@@ -176,7 +176,7 @@
     },
   
   "developer17": {
-    "picture": "",
+    "picture": "src/images/headshots/MariaBrock.jpg",
     "name": "Maria Brock",
     "resume": "",
     "github": "https://github.com/mariabrock",
@@ -187,7 +187,7 @@
     },
 
   "developer18": {
-    "picture": "",
+    "picture": "src/images/headshots/MonicaDjunaidi.jpg",
     "name": "Monica Djunaidi",
     "resume": "src/resumes/MonicaDjunaidi_Resume.pdf",
     "github": "github.com/djunaim",
@@ -198,9 +198,9 @@
     },
     
   "developer19": {
-    "picture": "",
+    "picture": "src/images/headshots/RandyTate.jpeg",
     "name": "Randy Tate",
-    "resume": "",
+    "resume": "src/images/headshots/RandyTate.jpeg",
     "github": "https://github.com/rtate2",
     "website": "randytatejr.com",
     "linkedIn": "linkedin.com/in/randytatejr",
@@ -209,7 +209,7 @@
     },
     
   "developer20": {
-    "picture": "",
+    "picture": "src/images/headshots/RaymondArceneaux.JPG",
     "name": "Raymond Arceneaux, MBA",
     "resume": "",
     "github": "https://github.com/rarceneaux",
