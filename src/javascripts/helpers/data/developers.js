@@ -1,6 +1,6 @@
 const developers = [
   {
-    picture: 'src/images/headshots/AleshaReed.jpeg',
+    picture: 'src/images/headshots/AleshaReed.jpg',
     name: 'Alesha Reed',
     resume: '',
     github: 'https://github.com/aleshakay',
@@ -20,7 +20,7 @@ const developers = [
     isHired: false,
   },
   {
-    picture: 'src/images/headshots/CharityBunyon.jpeg',
+    picture: 'src/images/headshots/CharityBunyon.jpg',
     name: 'Charity Bunyon',
     resume: 'src/resumes/CharityBunyon_Resume.pdf',
     github: 'https://github.com/CharityBunyon',
@@ -30,9 +30,9 @@ const developers = [
     isHired: false,
   },
   {
-    picture: 'src/images/headshots/ConnorSullivan.png',
+    picture: 'src/images/headshots/ConnorSullivan.jpg',
     name: 'Connor Sullivan',
-    resume: '',
+    resume: 'src/resumes/ConnorSullivan_Resume.pdf',
     github: 'github.com/ConnorSullivan10',
     website: 'ConnorSullivan.dev',
     linkedin: 'LinkedIn.com/in/connorksullivan10/',
@@ -42,7 +42,7 @@ const developers = [
   {
     picture: 'src/images/headshots/CrystalBroach.jpg',
     name: 'Crystal Broach',
-    resume: '',
+    resume: 'src/resumes/CrystalBroach_Resume.pdf',
     github: 'https://github.com/broach44',
     website: 'www.crystalbroach.com',
     linkedin: 'https://www.linkedin.com/in/crystal-broach/',
@@ -52,7 +52,7 @@ const developers = [
   {
     picture: 'src/images/headshots/DeniseBaker.jpg',
     name: 'Denise Baker',
-    resume: '',
+    resume: 'src/resumes/DeniseBaker_Resume.pdf',
     github: 'https://github.com/denzelb5',
     website: ' https://denise-baker.firebaseapp.com',
     linkedin: 'www.linkedin.com/in/denise-e-baker',
@@ -60,9 +60,9 @@ const developers = [
     isHired: false,
   },
   {
-    picture: 'src/images/headshots/EmileeMitchell.jpeg',
+    picture: 'src/images/headshots/EmileeMitchell.jpg',
     name: 'Emilee Mitchell',
-    resume: '',
+    resume: 'src/resumes/EmileeMitchell_Resume.pdf',
     github: 'https://github.com/EmileeA',
     website: 'www.emileem.org',
     linkedin: 'https://www.linkedin.com/in/emileemitchell/',
@@ -112,7 +112,7 @@ const developers = [
   {
     picture: '',
     name: 'Jamie Phillips',
-    resume: '',
+    resume: 'src/resumes/JamiePhillips_Resume.pdf',
     github: 'https://github.com/phillipsja97',
     website: 'jamiephillips.dev',
     linkedin: 'https://www.linkedin.com/in/jamieaphillips',
@@ -130,9 +130,9 @@ const developers = [
     isHired: false,
   },
   {
-    picture: 'src/images/headshots/JohnThielman.jpeg',
+    picture: 'src/images/headshots/JohnThielman.jpg',
     name: 'John Thielman',
-    resume: '',
+    resume: 'src/resumes/JohnThielman_Resume.pdf',
     github: 'https://github.com/jthielman',
     website: 'https://john-thielman.firebaseapp.com/',
     linkedin: 'https://www.linkedin.com/in/john-peter-thielman/',
@@ -142,7 +142,7 @@ const developers = [
   {
     picture: '',
     name: 'Kelsey Creel',
-    resume: '',
+    resume: 'src/resumes/KelseyCreel_Resume.pdf',
     github: 'https://github.com/kelseycreel',
     website: 'kelseycreel.com',
     linkedin: 'https://www.linkedin.com/in/kelseycreel',
@@ -162,7 +162,7 @@ const developers = [
   {
     picture: 'src/images/headshots/MariaBrock.jpg',
     name: 'Maria Brock',
-    resume: '',
+    resume: 'src/resumes/MariaBrock_Resume.pdf',
     github: 'https://github.com/mariabrock',
     website: 'www.mariabrock.dev',
     linkedin: 'https://www.linkedin.com/in/maria-brock/',
@@ -180,7 +180,7 @@ const developers = [
     isHired: false,
   },
   {
-    picture: 'src/images/headshots/RandyTate.jpeg',
+    picture: 'src/images/headshots/RandyTate.jpg',
     name: 'Randy Tate',
     resume: 'src/resumes/RandyTate_Resume.pdf',
     github: 'https://github.com/rtate2',

@@ -7,12 +7,14 @@ import './DevCards.scss';
 const devProfile = () => {
   const developer = developers.getDevelopers();
   let domString = '';
-  domString += '<div class="techStack d-flex flex-wrap">';
+  domString += '<div class="techStack d-flex flex-wrap justify-content-between">';
   for (let i = 0; i < developer.length; i += 1) {
     if (developer[i].resume !== '') {
       domString += `
-    <div class="card devCard"">
-      <img class="card-img-top cardPic" src="${developer[i].picture}" alt="Card image cap">
+    <div class="card devCard">
+      <div class="devImage">
+        <img class="card-img-top cardPic" src="${developer[i].picture}" alt="${developer[i].name} headshot">
+      </div>
       <div class="card-body">
         <h5 class="card-title">${developer[i].name}</h5>
         <p class="card-text">Hired: ${developer[i].isHired}</p>

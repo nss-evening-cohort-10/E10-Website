@@ -1,12 +1,25 @@
 .devCard {
-  width: 250px;
+  width: 275px;
   height: auto;
   margin: 25px;
 }
 
-.cardPic {
-  width: auto;
-  height: 300px;
+// .cardPic {
+//   width: auto;
+//   height: 300px;
+// }
+
+.devImage {
+  width:275px;
+  height:275px;
+  overflow: hidden;
+  margin: 10px auto;
+  border:1px solid #eee;
+  img {
+    text-align: center;
+    vertical-align: middle;
+    width:100%;
+  }
 }
 
 .cardIcon {
