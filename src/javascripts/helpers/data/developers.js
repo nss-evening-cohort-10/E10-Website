@@ -110,7 +110,7 @@ const developers = [
     isHired: false,
   },
   {
-    picture: '',
+    picture: 'src/images/headshots/JamiePhillips.jpg',
     name: 'Jamie Phillips',
     resume: 'src/resumes/JamiePhillips_Resume.pdf',
     github: 'https://github.com/phillipsja97',
