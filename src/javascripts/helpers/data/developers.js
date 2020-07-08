@@ -192,7 +192,7 @@ const developers = [
   {
     picture: 'src/images/headshots/RaymondArceneaux.JPG',
     name: 'Raymond Arceneaux, MBA',
-    resume: '',
+    resume: 'src/resumes/RaymondArceneaux_Resume.pdf',
     github: 'https://github.com/rarceneaux',
     website: 'http://www.raymondarceneaux.com/',
     linkedin: 'https://www.linkedin.com/in/raymond-arceneaux-mba/',
