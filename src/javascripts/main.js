@@ -2,6 +2,7 @@ import 'bootstrap';
 import utl from './helpers/utilities';
 import { regular } from './helpers/data/techIcons.json';
 import '../styles/main.scss';
+import DevCards from './components/DevCards/DevCards';
 
 const regularIconsToDom = () => {
   const domString = `
@@ -21,6 +22,7 @@ const regularIconsToDom = () => {
 };
 
 const init = () => {
+  DevCards.devProfile();
   regularIconsToDom();
   const domString = `
     <div>
