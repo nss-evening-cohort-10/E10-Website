@@ -77,10 +77,10 @@ const developers = [
     website: 'evangdesigns.com',
     linkedin: 'https://www.linkedin.com/in/evangrabenstein/',
     email: 'evan.grabenstein@gmail.com',
-    isHired: false,
+    isHired: true,
   },
   {
-    picture: '',
+    picture: 'src/images/headshots/GabrielSeals.jpg',
     name: 'Gabriel Seals',
     resume: 'src/resumes/GabrielSeal_Resume.pdf',
     github: 'https://github.com/gseals',
@@ -90,7 +90,7 @@ const developers = [
     isHired: false,
   },
   {
-    picture: '',
+    picture: 'src/images/headshots/IvanPhelps.jpg',
     name: 'Ivan Phelps',
     resume: '',
     github: 'https://github.com/ivannio',
@@ -102,7 +102,7 @@ const developers = [
   {
     picture: 'src/images/headshots/JacobBest-Wittenberg.jpg',
     name: 'Jacob Best-Wittenberg',
-    resume: '',
+    resume: 'src/resumes/JacobBest-Wittenberg_Resume.pdf',
     github: 'github.com/jacob-bw',
     website: 'Jacob-bw.dev',
     linkedin: 'LinkedIn.com/in/jacob-best-wittenberg',
@@ -117,10 +117,10 @@ const developers = [
     website: 'jamiephillips.dev',
     linkedin: 'https://www.linkedin.com/in/jamieaphillips',
     email: 'Phillipsja97@gmail.com',
-    isHired: false,
+    isHired: true,
   },
   {
-    picture: '',
+    picture: 'src/images/headshots/JohnKeyStickFigure.jpg',
     name: 'John Key',
     resume: '',
     github: 'https://github.com/jbkey2015',
@@ -140,7 +140,7 @@ const developers = [
     isHired: false,
   },
   {
-    picture: '',
+    picture: 'src/images/headshots/KelseyCreel.jpg',
     name: 'Kelsey Creel',
     resume: 'src/resumes/KelseyCreel_Resume.pdf',
     github: 'https://github.com/kelseycreel',

@@ -9,15 +9,20 @@ const devProfile = () => {
   let domString = '';
   domString += '<div class="techStack d-flex flex-wrap justify-content-between">';
   for (let i = 0; i < developer.length; i += 1) {
+    // eslint-disable-next-line no-loop-func
+    const isHired = () => {
+      if (developer[i].isHired) {
+        domString += '<h4 class="ribbon">Hired</h4>';
+      }
+    };
     if (developer[i].resume !== '') {
       domString += `
-    <div class="card devCard">
-      <div class="devImage">
-        <img class="card-img-top cardPic" src="${developer[i].picture}" alt="${developer[i].name} headshot">
-      </div>
+    <div class="card devCard">`;
+      isHired();
+      domString += `
+        <img class="card-img-top devImage" src="${developer[i].picture}" alt="${developer[i].name} headshot">
       <div class="card-body">
-        <h5 class="card-title">${developer[i].name}</h5>
-        <p class="card-text">Hired: ${developer[i].isHired}</p>
+        <h5 class="card-title devName">${developer[i].name}</h5>
         <a href="${developer[i].resume}" class="" target="_blank">
           <img src="src/images/icons/resume_icon.png" class="cardIcon" alt="resume icon" />
         </a>
@@ -38,11 +43,12 @@ const devProfile = () => {
     `;
     } else {
       domString += `
-    <div class="card devCard"">
-      <img class="card-img-top cardPic" src="${developer[i].picture}" alt="Card image cap">
+    <div class="card devCard">`;
+      isHired();
+      domString += `
+      <img class="card-img-top devImage" src="${developer[i].picture}" alt="Card image cap">
       <div class="card-body">
-        <h5 class="card-title">${developer[i].name}</h5>
-        <p class="card-text">Hired: ${developer[i].isHired}</p>
+        <h5 class="card-title devName">${developer[i].name}</h5>
         <a href="${developer[i].github}" class="" target="_blank">
           <img src="src/images/icons/gitHub_icon.png" class="cardIcon" alt="Github icon" />
         </a>
