@@ -31,10 +31,12 @@
   background: #F12514;
 }
 .ribbon:before {
+  width: 150%;
   right:100%;
 }
 
 .ribbon:after {
+  width: 150%;
   left:100%;
 }
 
