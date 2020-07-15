@@ -185,7 +185,7 @@ const developers = [
     resume: 'src/resumes/RandyTate_Resume.pdf',
     github: 'https://github.com/rtate2',
     website: 'randytatejr.com',
-    linkedin: 'linkedin.com/in/randytatejr',
+    linkedin: 'https://www.linkedin.com/in/randytatejr',
     email: 'mailto:randytatejr@gmail.com',
     isHired: false,
   },
