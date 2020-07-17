@@ -6,7 +6,6 @@ const developers = [
     github: 'https://github.com/aleshakay',
     website: 'https://aleshareed.com/',
     linkedin: 'https://www.linkedin.com/in/alesha-reed/',
-    email: 'mailto:aleshak83@gmail.com',
     isHired: false,
   },
   {
@@ -16,7 +15,6 @@ const developers = [
     github: 'https://github.com/aclai4067',
     website: 'https://ashleyclaiborne.dev/',
     linkedin: 'https://www.linkedin.com/in/ashley-claiborne/',
-    email: 'mailto:languageisaliquid@gmail.com',
     isHired: false,
   },
   {
@@ -26,7 +24,6 @@ const developers = [
     github: 'https://github.com/CharityBunyon',
     website: 'https://charitybunyon.com/',
     linkedin: 'https://www.linkedin.com/in/charity-bunyon/',
-    email: 'mailto:cseymou5@gmail.com',
     isHired: false,
   },
   {
@@ -36,7 +33,6 @@ const developers = [
     github: 'https://github.com/ConnorSullivan10',
     website: 'https://ConnorSullivan.dev',
     linkedin: 'https://LinkedIn.com/in/connorksullivan10/',
-    email: 'mailto:cksullvn@gmail.com',
     isHired: false,
   },
   {
@@ -46,7 +42,6 @@ const developers = [
     github: 'https://github.com/broach44',
     website: 'http://crystalbroach.com',
     linkedin: 'https://www.linkedin.com/in/crystal-broach/',
-    email: 'mailto:crysland@gmail.com',
     isHired: false,
   },
   {
@@ -56,7 +51,6 @@ const developers = [
     github: 'https://github.com/denzelb5',
     website: ' https://denise-baker.firebaseapp.com',
     linkedin: 'https://www.linkedin.com/in/denise-e-baker',
-    email: 'mailto:denviol125@gmail.com',
     isHired: false,
   },
   {
@@ -66,7 +60,6 @@ const developers = [
     github: 'https://github.com/EmileeA',
     website: 'https://biosite-ed46a.web.app/',
     linkedin: 'https://www.linkedin.com/in/emileemitchell/',
-    email: 'mailto:TheEmileeMitchell@gmail.com',
     isHired: true,
   },
   {
@@ -76,7 +69,6 @@ const developers = [
     github: 'https://github.com/evangdesigns',
     website: 'https://evangdesigns.com',
     linkedin: 'https://www.linkedin.com/in/evangrabenstein/',
-    email: 'mailto:evan.grabenstein@gmail.com',
     isHired: true,
   },
   {
@@ -86,7 +78,6 @@ const developers = [
     github: 'https://github.com/gseals',
     website: 'https://gabrielseals.com/',
     linkedin: 'https://www.linkedin.com/in/gabeseals/',
-    email: 'mailto:webdevseals@gmail.com',
     isHired: false,
   },
   {
@@ -96,7 +87,6 @@ const developers = [
     github: 'https://github.com/ivannio',
     website: 'https://www.ivanphelps.com',
     linkedin: 'https://www.linkedin.com/in/ivan-phelps/',
-    email: 'mailto:stevenivanphelps@gmail.com',
     isHired: false,
   },
   {
@@ -106,7 +96,6 @@ const developers = [
     github: 'https://github.com/jacob-bw',
     website: 'https://Jacob-bw.dev',
     linkedin: 'https://LinkedIn.com/in/jacob-best-wittenberg',
-    email: 'mailto:wittenberg.jacob@gmail.com',
     isHired: false,
   },
   {
@@ -116,7 +105,6 @@ const developers = [
     github: 'https://github.com/phillipsja97',
     website: 'https://jamiephillips.dev',
     linkedin: 'https://www.linkedin.com/in/jamieaphillips',
-    email: 'mailto:Phillipsja97@gmail.com',
     isHired: true,
   },
   {
@@ -126,7 +114,6 @@ const developers = [
     github: 'https://github.com/jbkey2015',
     website: 'https://personal-bio-site-60fb3.firebaseapp.com/',
     linkedin: 'https://www.linkedin.com/in/jbkey/',
-    email: 'mailto:jbkey2015@gmail.com',
     isHired: false,
   },
   {
@@ -136,7 +123,6 @@ const developers = [
     github: 'https://github.com/jthielman',
     website: 'https://john-thielman.firebaseapp.com/',
     linkedin: 'https://www.linkedin.com/in/john-peter-thielman/',
-    email: 'mailto:john.thielman@gmail.com',
     isHired: false,
   },
   {
@@ -146,7 +132,6 @@ const developers = [
     github: 'https://github.com/kelseycreel',
     website: 'https://kelseycreel.com',
     linkedin: 'https://www.linkedin.com/in/kelseycreel',
-    email: 'mailto:kelseycreel@gmail.com',
     isHired: false,
   },
   {
@@ -156,7 +141,6 @@ const developers = [
     github: 'https://github.com/LaCollins',
     website: 'https://lauracollins.dev/',
     linkedin: 'https://www.linkedin.com/in/laura-e-collins/',
-    email: 'mailto:laura.e.collins1@gmail.com',
     isHired: false,
   },
   {
@@ -166,7 +150,6 @@ const developers = [
     github: 'https://github.com/mariabrock',
     website: 'https://www.mariabrock.dev',
     linkedin: 'https://www.linkedin.com/in/maria-brock/',
-    email: 'mailto:mariabrock414@gmail.com',
     isHired: false,
   },
   {
@@ -176,7 +159,6 @@ const developers = [
     github: 'https://github.com/djunaim',
     website: ' https://personal-website-65796.web.app/',
     linkedin: 'https://linkedin.com/in/monicadjunaidi/',
-    email: 'mailto:modjun12@gmail.com',
     isHired: false,
   },
   {
@@ -186,7 +168,6 @@ const developers = [
     github: 'https://github.com/rtate2',
     website: 'http://randytatejr.com',
     linkedin: 'https://www.linkedin.com/in/randytatejr',
-    email: 'mailto:randytatejr@gmail.com',
     isHired: false,
   },
   {
@@ -196,7 +177,6 @@ const developers = [
     github: 'https://github.com/rarceneaux',
     website: 'http://www.raymondarceneaux.com/',
     linkedin: 'https://www.linkedin.com/in/raymond-arceneaux-mba/',
-    email: 'mailto:dev@raymondarceneaux.com',
     isHired: false,
   },
 ];
