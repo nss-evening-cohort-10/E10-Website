@@ -121,7 +121,7 @@ const developers = [
   },
   {
     id: 10,
-    picture: 'src/images/headshots/JacobBest-Wittenberg.jpg',
+    picture: 'src/images/headshots/JacobBest-Wittenberg_v2.jpg',
     name: 'Jacob Best-Wittenberg',
     resume: 'src/resumes/JacobBest-Wittenberg_Resume.pdf',
     github: 'github.com/jacob-bw',
@@ -181,7 +181,7 @@ const developers = [
   },
   {
     id: 15,
-    picture: 'src/images/headshots/LauraCollins.jpg',
+    picture: 'src/images/headshots/LauraCollins_v2.jpg',
     name: 'Laura Collins',
     resume: 'src/resumes/LauraCollins_Resume.pdf',
     github: 'https://github.com/LaCollins',
@@ -193,7 +193,7 @@ const developers = [
   },
   {
     id: 16,
-    picture: 'src/images/headshots/MariaBrock.jpg',
+    picture: 'src/images/headshots/MariaBrock_v2.jpg',
     name: 'Maria Brock',
     resume: 'src/resumes/MariaBrock_Resume.pdf',
     github: 'https://github.com/mariabrock',
