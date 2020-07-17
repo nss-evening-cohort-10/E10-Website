@@ -9,7 +9,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/alesha-reed/',
     email: 'mailto:aleshak83@gmail.com',
     isHired: false,
-    babyPicture: 'src/images/babyPics/weeDevPlaceholder.jpg',
+    babyPicture: 'src/images/babyPics/weeAleshaReed.jpg',
   },
   {
     id: 1,
