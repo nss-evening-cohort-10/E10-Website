@@ -53,6 +53,10 @@
   }
 }
 
+.card-icon-link:hover {
+  text-decoration: none;
+}
+
 .cardIcon {
   width: 10%;
   height: auto;
@@ -63,6 +67,7 @@
   color:#F12514;
   text-transform: uppercase;
 }
+
 
 // .cardPic {
 //   width: auto;
