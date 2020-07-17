@@ -14,11 +14,13 @@ body {
 
 p {
   font-size: $para;
+  font-weight: 700;
 }
 h1, h2, h3, h4 {
   font-weight: 600;
   line-height: 10px;
-  margin-top:30px;
+  margin-top: 30px;
+  margin-bottom: 20px;
   h1 {
     font-size:$h1;
   }
