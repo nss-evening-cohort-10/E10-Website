@@ -53,6 +53,21 @@
   }
 }
 
+.weeDevImage {
+  display: none;
+  width:276px;
+  height:275px;
+  overflow: hidden;
+  margin: .01px auto;
+  border:1px solid #eee;
+  img {
+    text-align: center;
+    vertical-align: middle;
+    width:100%;
+  }
+}
+
+
 .cardIcon {
   width: 10%;
   height: auto;
