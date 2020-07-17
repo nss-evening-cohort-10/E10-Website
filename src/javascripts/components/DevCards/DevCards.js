@@ -35,9 +35,6 @@ const devProfile = () => {
         <a href="${developer[i].linkedin}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/linkedIn_icon.png" class="cardIcon" alt="LinkedIn icon" />
         </a>
-        <a href="${developer[i].email}" class="card-icon-link" target="_blank">
-          <img src="src/images/icons/email_icon.png" class="cardIcon" alt="email icon" />
-        </a>
       </div>
     </div>
     `;
@@ -57,9 +54,6 @@ const devProfile = () => {
         </a>
         <a href="${developer[i].linkedin}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/linkedIn_icon.png" class="cardIcon" alt="LinkedIn icon" />
-        </a>
-        <a href="${developer[i].email}" class="card-icon-link" target="_blank">
-          <img src="src/images/icons/email_icon.png" class="cardIcon" alt="email icon" />
         </a>
       </div>
     </div>

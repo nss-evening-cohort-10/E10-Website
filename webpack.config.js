@@ -1,6 +1,8 @@
 const webpack = require('webpack');
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const CopyWebpackPlugin = require('copy-webpack-plugin');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 module.exports = {
   entry: './src/javascripts/main.js',
   devtool: "eval-source-map",
@@ -40,7 +42,7 @@ module.exports = {
         ],
       },
       {
-        test: /\.(png|svg|jpg|gif)$/,
+        test: /\.(png|svg|jpg|gif|pdf)$/,
         use: ['file-loader']
       },
       {
@@ -50,9 +52,17 @@ module.exports = {
     ]
   },
   plugins: [
+    new CleanWebpackPlugin(),
     new HtmlWebPackPlugin({
       template: "./src/index.html",
-      filename: "./index.html"
+      filename: "./index.html",
+      favicon: "favicon.ico"
+    }),
+    new CopyWebpackPlugin({
+      patterns: [
+        {from:'src/images',to:'src/images'},
+        {from:'src/resumes',to:'src/resumes'}
+      ]
     }),
     new MiniCssExtractPlugin({
       filename: "[name].css",
@@ -66,5 +76,6 @@ module.exports = {
   output: {
 		path: __dirname + "/docs",
 		filename: "bundle.js"
-	}
+  }
+
 };
