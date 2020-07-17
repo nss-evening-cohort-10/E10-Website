@@ -1,6 +1,7 @@
 const webpack = require('webpack');
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 module.exports = {
   entry: './src/javascripts/main.js',
   devtool: "eval-source-map",
@@ -40,7 +41,7 @@ module.exports = {
         ],
       },
       {
-        test: /\.(png|svg|jpg|gif)$/,
+        test: /\.(png|svg|jpg|gif|pdf)$/,
         use: ['file-loader']
       },
       {
@@ -66,5 +67,6 @@ module.exports = {
   output: {
 		path: __dirname + "/docs",
 		filename: "bundle.js"
-	}
+  }
+
 };
