@@ -92,7 +92,7 @@ const developers = [
   {
     picture: 'src/images/headshots/IvanPhelps.jpg',
     name: 'Ivan Phelps',
-    resume: '',
+    resume: 'src/resumes/IvanPhelps_Resume.pdf',
     github: 'https://github.com/ivannio',
     website: 'https://www.ivanphelps.com',
     linkedin: 'https://www.linkedin.com/in/ivan-phelps/',
