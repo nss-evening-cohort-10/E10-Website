@@ -15,7 +15,7 @@ const developers = [
     id: 1,
     picture: 'src/images/headshots/AshleyClaiborne.jpg',
     name: 'Ashley Claiborne',
-    resume: 'src/resumes/AshleyClaiborne_Resume.pdf',
+    resume: 'src/resumes/AshleyClaiborne_Resume_v2.pdf',
     github: 'https://github.com/aclai4067',
     website: 'https://ashleyclaiborne.dev/',
     linkedin: 'https://www.linkedin.com/in/ashley-claiborne/',
