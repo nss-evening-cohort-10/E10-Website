@@ -84,6 +84,24 @@
 }
 
 
+@media only screen and (min-width: 384px) and (max-width: 450px) {
+  #headerImg {
+    padding-top: 60px;
+  }
+}
+
+@media only screen and (min-width: 328px) and (max-width: 383px) {
+  #headerImg {
+    padding-top: 120px;
+  }
+}
+
+@media only screen and (max-width: 327px) {
+  #headerImg {
+    padding-top: 180px;
+  }
+}
+
 // .cardPic {
 //   width: auto;
 //   height: 300px;
