@@ -53,6 +53,21 @@
   }
 }
 
+.weeDevImage {
+  display: none;
+  width:276px;
+  height:275px;
+  overflow: hidden;
+  margin: .01px auto;
+  border:1px solid #eee;
+  img {
+    text-align: center;
+    vertical-align: middle;
+    width:100%;
+  }
+}
+
+
 .card-icon-link:hover {
   text-decoration: none;
 }
@@ -68,6 +83,30 @@
   text-transform: uppercase;
 }
 
+@media only screen and (max-width: 550px) {
+  .section h1, .section h2 {
+    line-height: initial;
+  }
+}
+
+
+@media only screen and (min-width: 384px) and (max-width: 450px) {
+  #headerImg {
+    padding-top: 60px;
+  }
+}
+
+@media only screen and (min-width: 328px) and (max-width: 383px) {
+  #headerImg {
+    padding-top: 120px;
+  }
+}
+
+@media only screen and (max-width: 327px) {
+  #headerImg {
+    padding-top: 180px;
+  }
+}
 
 // .cardPic {
 //   width: auto;
