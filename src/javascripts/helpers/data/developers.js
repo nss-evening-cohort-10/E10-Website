@@ -7,7 +7,8 @@ const developers = [
     github: 'https://github.com/aleshakay',
     website: 'https://aleshareed.com/',
     linkedin: 'https://www.linkedin.com/in/alesha-reed/',
-    isHired: false,
+    email: 'mailto:aleshak83@gmail.com',
+    isHired: true,
     babyPicture: 'src/images/babyPics/weeAleshaReed.jpg',
   },
   {
