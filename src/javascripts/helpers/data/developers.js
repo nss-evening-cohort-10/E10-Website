@@ -128,7 +128,7 @@ const developers = [
     github: 'https://github.com/phillipsja97',
     website: 'https://jamiephillips.dev',
     linkedin: 'https://www.linkedin.com/in/jamieaphillips',
-    isHired: true,
+    isHired: false,
     babyPicture: 'src/images/babyPics/weeJamiePhillips.jpg',
   },
   {
