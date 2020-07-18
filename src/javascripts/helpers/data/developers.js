@@ -3,7 +3,7 @@ const developers = [
     id: 0,
     picture: 'src/images/headshots/AleshaReed.jpg',
     name: 'Alesha Reed',
-    resume: '',
+    resume: 'src/resumes/AleshaReed_Resume.pdf',
     github: 'https://github.com/aleshakay',
     website: 'https://aleshareed.com/',
     linkedin: 'https://www.linkedin.com/in/alesha-reed/',
@@ -128,7 +128,7 @@ const developers = [
     github: 'https://github.com/phillipsja97',
     website: 'https://jamiephillips.dev',
     linkedin: 'https://www.linkedin.com/in/jamieaphillips',
-    isHired: true,
+    isHired: false,
     babyPicture: 'src/images/babyPics/weeJamiePhillips.jpg',
   },
   {
