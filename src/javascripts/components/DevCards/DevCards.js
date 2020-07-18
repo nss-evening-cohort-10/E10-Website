@@ -43,20 +43,17 @@ const devProfile = () => {
         <img class="card-img-top weeDevImage" src="${developer[i].babyPicture}" alt="${developer[i].name} childhood photo">
       <div class="card-body">
         <h5 class="card-title devName">${developer[i].name}</h5>
-        <a href="${developer[i].resume}" class="" target="_blank">
+        <a href="${developer[i].resume}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/resume_icon.png" class="cardIcon" alt="resume icon" />
         </a>
-        <a href="${developer[i].github}" class="" target="_blank">
+        <a href="${developer[i].github}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/gitHub_icon.png" class="cardIcon" alt="Github icon" />
         </a>
-        <a href="${developer[i].website}" class="" target="_blank">
+        <a href="${developer[i].website}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/website_icon.png" class="cardIcon" alt="website icon" />
         </a>
-        <a href="${developer[i].linkedin}" class="" target="_blank">
+        <a href="${developer[i].linkedin}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/linkedIn_icon.png" class="cardIcon" alt="LinkedIn icon" />
-        </a>
-        <a href="${developer[i].email}" class="" target="_blank">
-          <img src="src/images/icons/email_icon.png" class="cardIcon" alt="email icon" />
         </a>
       </div>
     </div>
@@ -70,17 +67,14 @@ const devProfile = () => {
       <img class="card-img-top weeDevImage" src="${developer[i].babyPicture}" alt="${developer[i].name} childhood photo">
       <div class="card-body">
         <h5 class="card-title devName">${developer[i].name}</h5>
-        <a href="${developer[i].github}" class="" target="_blank">
+        <a href="${developer[i].github}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/gitHub_icon.png" class="cardIcon" alt="Github icon" />
         </a>
-        <a href="${developer[i].website}" class="" target="_blank">
+        <a href="${developer[i].website}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/website_icon.png" class="cardIcon" alt="website icon" />
         </a>
-        <a href="${developer[i].linkedin}" class="" target="_blank">
+        <a href="${developer[i].linkedin}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/linkedIn_icon.png" class="cardIcon" alt="LinkedIn icon" />
-        </a>
-        <a href="${developer[i].email}" class="" target="_blank">
-          <img src="src/images/icons/email_icon.png" class="cardIcon" alt="email icon" />
         </a>
       </div>
     </div>

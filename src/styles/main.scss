@@ -14,23 +14,27 @@ body {
 
 p {
   font-size: $para;
+  font-weight: 700;
 }
 h1, h2, h3, h4 {
   font-weight: 600;
   line-height: 10px;
-  margin-top:30px;
-  h1 {
-    font-size:$h1;
-  }
-  h2 {
-    font-size:$h2;
-  }
-  h3 {
-    font-size:$h3;
-  }
-  h4 {
-    font-size:$h4;
-  }
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size:$h1;
+  color:$mainRed;
+}
+h2 {
+  font-size:$h2;
+  color:$yellow;
+}
+h3 {
+  font-size:$h3;
+}
+h4 {
+  font-size:$h4;
 }
 nav {
   font-weight: 600;
@@ -64,6 +68,7 @@ footer {
   color:$white;
   h2 {
     margin-top: 15px;
+    color:$white;
   }
   nav {
     margin: 20px 0;
@@ -93,4 +98,8 @@ footer {
   margin-bottom: 1em;
   margin-right: 5em;
   margin-left: 5em;
+}
+
+#headerImg {
+  margin-top: 60px;
 }

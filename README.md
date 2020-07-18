@@ -1,10 +1,23 @@
 # NSS E10 Class Website
 
-## Instructions for how to run the project
-* Clone down this project from [Github](https://github.com/nss-evening-cohort-10/E10-Website).
-* cd into the clone and install Node Modules: `$ npm install`
-* To view it in your browser: `$ npm start`
-* Or in your browser, navigate to `https://localhost:8080/`;
-
 ## Contributors
+* [Alesha Reed](https://github.com/aleshakay)
+* [Ashley Claiborne](https://github.com/aclai4067)
+* [Charity Bunyon](https://github.com/CharityBunyon)
+* [Connor Sullivan](https://github.com/ConnorSullivan10)
+* [Crystal Broach](https://github.com/broach44)
+* [Denise Baker](https://github.com/denzelb5)
+* [Emilee Mitchell](https://github.com/EmileeA)
 * [Evan Grabenstein](https://github.com/evangdesigns)
+* [Gabriel Seals](https://github.com/gseals)
+* [Ivan Phelps](https://github.com/ivannio)
+* [Jacob Best-Wittenberg](https://github.com/jacob-bw)
+* [Jamie Phillips](https://github.com/phillipsja97)
+* [John Key](https://github.com/jbkey2015)
+* [John Thielman](https://github.com/jthielman)
+* [Kelsey Creel](https://github.com/kelseycreel)
+* [Laura Collins](https://github.com/LaCollins)
+* [Maria Brock](https://github.com/mariabrock)
+* [Monica Djunaidi](https://github.com/djunaim)
+* [Randy Tate](https://github.com/rtate2)
+* [Raymond Arceneaux](https://github.com/rarceneaux)
