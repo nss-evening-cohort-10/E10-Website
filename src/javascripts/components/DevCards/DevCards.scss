@@ -83,6 +83,12 @@
   text-transform: uppercase;
 }
 
+@media only screen and (max-width: 550px) {
+  .section h1, .section h2 {
+    line-height: initial;
+  }
+}
+
 
 @media only screen and (min-width: 384px) and (max-width: 450px) {
   #headerImg {
