@@ -85,7 +85,7 @@ const developers = [
     website: 'https://evangdesigns.com',
     linkedin: 'https://www.linkedin.com/in/evangrabenstein/',
     isHired: true,
-    babyPicture: 'src/images/babyPics/weeDevPlaceholder.jpg',
+    babyPicture: 'src/images/babyPics/weeEvanGrabenstein.jpg',
   },
   {
     id: 8,
@@ -210,7 +210,7 @@ const developers = [
   },
   {
     id: 19,
-    picture: 'src/images/headshots/RaymondArceneaux.JPG',
+    picture: 'src/images/headshots/RaymondArceneaux.jpg',
     name: 'Raymond Arceneaux, MBA',
     resume: 'src/resumes/RaymondArceneaux_Resume.pdf',
     github: 'https://github.com/rarceneaux',
