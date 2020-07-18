@@ -7,7 +7,7 @@ const developers = [
     website: 'https://aleshareed.com/',
     linkedin: 'https://www.linkedin.com/in/alesha-reed/',
     email: 'mailto:aleshak83@gmail.com',
-    isHired: false,
+    isHired: true,
   },
   {
     picture: 'src/images/headshots/AshleyClaiborne.jpg',
