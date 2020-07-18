@@ -57,12 +57,12 @@ module.exports = {
       template: "./src/index.html",
       filename: "./index.html",
       favicon: "favicon.ico",
-      filename: "./CNAME"
     }),
     new CopyWebpackPlugin({
       patterns: [
         {from:'src/images',to:'src/images'},
         {from:'src/resumes',to:'src/resumes'},
+        {from:'./CNAME',to:'./CNAME', toType: 'file'},
       ]
     }),
     new MiniCssExtractPlugin({
