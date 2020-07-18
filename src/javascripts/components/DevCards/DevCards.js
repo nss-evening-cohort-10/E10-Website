@@ -1,11 +1,30 @@
 import 'bootstrap';
+import $ from 'jquery';
 import utilities from '../../helpers/utilities';
 import developers from '../../helpers/data/developers';
 
 import './DevCards.scss';
 
+const hoverEvent = (cardId) => {
+  $(`#${cardId}.devCard`).hover(() => {
+    $(`#${cardId} .devImage`).toggle();
+    $(`#${cardId} .weeDevImage`).toggle();
+  });
+};
+
 const devProfile = () => {
-  const developer = developers.getDevelopers();
+  const developerUnsorted = developers.getDevelopers();
+  const developerForHire = [];
+  const developerTaken = [];
+  for (let i = 0; i < developerUnsorted.length; i += 1) {
+    if (developerUnsorted[i].isHired) {
+      developerTaken.push(developerUnsorted[i]);
+    } else {
+      developerForHire.push(developerUnsorted[i]);
+    }
+  }
+  const developer = developerForHire.concat(developerTaken);
+
   let domString = '';
   domString += '<div class="techStack d-flex flex-wrap justify-content-between">';
   for (let i = 0; i < developer.length; i += 1) {
@@ -17,10 +36,11 @@ const devProfile = () => {
     };
     if (developer[i].resume !== '') {
       domString += `
-    <div class="card devCard">`;
+    <div id="dev-${developer[i].id}" class="card devCard">`;
       isHired();
       domString += `
         <img class="card-img-top devImage" src="${developer[i].picture}" alt="${developer[i].name} headshot">
+        <img class="card-img-top weeDevImage" src="${developer[i].babyPicture}" alt="${developer[i].name} childhood photo">
       <div class="card-body">
         <h5 class="card-title devName">${developer[i].name}</h5>
         <a href="${developer[i].resume}" class="card-icon-link" target="_blank">
@@ -35,18 +55,16 @@ const devProfile = () => {
         <a href="${developer[i].linkedin}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/linkedIn_icon.png" class="cardIcon" alt="LinkedIn icon" />
         </a>
-        <a href="${developer[i].email}" class="card-icon-link" target="_blank">
-          <img src="src/images/icons/email_icon.png" class="cardIcon" alt="email icon" />
-        </a>
       </div>
     </div>
     `;
     } else {
       domString += `
-    <div class="card devCard">`;
+    <div id="dev-${developer[i].id}" class="card devCard">`;
       isHired();
       domString += `
       <img class="card-img-top devImage" src="${developer[i].picture}" alt="Card image cap">
+      <img class="card-img-top weeDevImage" src="${developer[i].babyPicture}" alt="${developer[i].name} childhood photo">
       <div class="card-body">
         <h5 class="card-title devName">${developer[i].name}</h5>
         <a href="${developer[i].github}" class="card-icon-link" target="_blank">
@@ -58,9 +76,6 @@ const devProfile = () => {
         <a href="${developer[i].linkedin}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/linkedIn_icon.png" class="cardIcon" alt="LinkedIn icon" />
         </a>
-        <a href="${developer[i].email}" class="card-icon-link" target="_blank">
-          <img src="src/images/icons/email_icon.png" class="cardIcon" alt="email icon" />
-        </a>
       </div>
     </div>
     `;
@@ -68,6 +83,9 @@ const devProfile = () => {
   }
   domString += '</div>';
   utilities.printToDom('devProfileCards', domString);
+  for (let i = 0; i < developer.length; i += 1) {
+    hoverEvent(`dev-${developer[i].id}`);
+  }
 };
 
 export default { devProfile };
