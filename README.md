@@ -21,3 +21,16 @@
 * [Monica Djunaidi](https://github.com/djunaim)
 * [Randy Tate](https://github.com/rtate2)
 * [Raymond Arceneaux](https://github.com/rarceneaux)
+
+## Things to note about future edits:
+If you haven't already, install these new dependancies:
+
+`npm install copy-webpack-plugin --save-dev`
+
+`npm install --save-dev clean-webpack-plugin`
+
+The first one moves the images and resumes folder into the docs (formally build) file. 
+
+Then after your edits run, `npm run build` to refresh the files in the docs folder with your changes.
+
+After Your PR is approved, merging to the master "redeploys" the site
