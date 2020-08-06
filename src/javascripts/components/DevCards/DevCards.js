@@ -54,7 +54,14 @@ const devProfile = () => {
         </a>
         <a href="${developer[i].linkedin}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/linkedIn_icon.png" class="cardIcon" alt="LinkedIn icon" />
-        </a>
+        </a>`;
+      if (developer[i].podcastTrack !== '') {
+        domString += `
+        <a href="${developer[i].podcastTrack}" class="card-icon-link" target="_blank">
+        <img src="src/images/icons/soundcloud_icon.png" class="cardIcon" alt="LinkedIn icon" />
+      </a>`;
+      }
+      domString += `      
       </div>
     </div>
     `;

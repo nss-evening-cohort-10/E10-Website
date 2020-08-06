@@ -10,6 +10,7 @@ const developers = [
     email: 'mailto:aleshak83@gmail.com',
     isHired: true,
     babyPicture: 'src/images/babyPics/weeAleshaReed.jpg',
+    podcastTrack: '',
   },
   {
     id: 1,
@@ -21,6 +22,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/ashley-claiborne/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeAshleyClaiborne.jpg',
+    podcastTrack: '',
   },
   {
     id: 2,
@@ -32,6 +34,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/charity-bunyon/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeCharityBunyon.jpg',
+    podcastTrack: 'https://soundcloud.com/nashville-software-school/charity-bunyon?in=nashville-software-school/sets/evening-10-demo-day',
   },
   {
     id: 3,
@@ -43,6 +46,7 @@ const developers = [
     linkedin: 'https://LinkedIn.com/in/connorksullivan10/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeConnorSullivan.jpg',
+    podcastTrack: 'https://soundcloud.com/nashville-software-school/connor-sullivan?in=nashville-software-school/sets/evening-10-demo-day',
   },
   {
     id: 4,
@@ -54,6 +58,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/crystal-broach/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeCrystalBroach.jpg',
+    podcastTrack: '',
   },
   {
     id: 5,
@@ -65,6 +70,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/denise-e-baker',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeDeniseBaker.jpg',
+    podcastTrack: '',
   },
   {
     id: 6,
@@ -76,6 +82,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/emileemitchell/',
     isHired: true,
     babyPicture: 'src/images/babyPics/weeEmileeMitchell.jpg',
+    podcastTrack: '',
   },
   {
     id: 7,
@@ -87,6 +94,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/evangrabenstein/',
     isHired: true,
     babyPicture: 'src/images/babyPics/weeEvanGrabenstein.jpg',
+    podcastTrack: '',
   },
   {
     id: 8,
@@ -98,6 +106,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/gabeseals/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeGabrielSeals.jpg',
+    podcastTrack: '',
   },
   {
     id: 9,
@@ -109,6 +118,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/ivan-phelps/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeIvanPhelps.jpg',
+    podcastTrack: '',
   },
   {
     id: 10,
@@ -120,6 +130,7 @@ const developers = [
     linkedin: 'https://LinkedIn.com/in/jacob-best-wittenberg',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeJacobBest-Wittenberg.jpg',
+    podcastTrack: 'https://soundcloud.com/nashville-software-school/jacob-best-wittenberg?in=nashville-software-school/sets/evening-10-demo-day',
   },
   {
     id: 11,
@@ -131,6 +142,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/jamieaphillips',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeJamiePhillips.jpg',
+    podcastTrack: 'https://soundcloud.com/nashville-software-school/jamie-phillips?in=nashville-software-school/sets/evening-10-demo-day',
   },
   {
     id: 12,
@@ -142,6 +154,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/jbkey/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeJohnKey.jpg',
+    podcastTrack: '',
   },
   {
     id: 13,
@@ -153,6 +166,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/john-peter-thielman/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeJohnThielman.jpg',
+    podcastTrack: '',
   },
   {
     id: 14,
@@ -164,6 +178,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/kelseycreel',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeKelseyCreel.jpg',
+    podcastTrack: '',
   },
   {
     id: 15,
@@ -175,6 +190,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/laura-e-collins/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeLauraCollins.jpg',
+    podcastTrack: '',
   },
   {
     id: 16,
@@ -186,6 +202,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/maria-brock/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeMariaBrock.jpg',
+    podcastTrack: 'https://soundcloud.com/nashville-software-school/maria-brock?in=nashville-software-school/sets/evening-10-demo-day',
   },
   {
     id: 17,
@@ -197,6 +214,7 @@ const developers = [
     linkedin: 'https://linkedin.com/in/monicadjunaidi/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeMonicaDjunaidi.jpg',
+    podcastTrack: 'https://soundcloud.com/nashville-software-school/monica-djunaidi?in=nashville-software-school/sets/evening-10-demo-day',
   },
   {
     id: 18,
@@ -208,6 +226,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/randytatejr',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeRandyTate.jpg',
+    podcastTrack: 'https://soundcloud.com/nashville-software-school/randy-tate?in=nashville-software-school/sets/evening-10-demo-day',
   },
   {
     id: 19,
@@ -219,6 +238,7 @@ const developers = [
     linkedin: 'https://www.linkedin.com/in/raymond-arceneaux-mba/',
     isHired: false,
     babyPicture: 'src/images/babyPics/weeRaymondArceneaux.jpg',
+    podcastTrack: 'https://soundcloud.com/nashville-software-school/raymond-arceneaux?in=nashville-software-school/sets/evening-10-demo-day',
   },
 ];
 
