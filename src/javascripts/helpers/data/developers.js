@@ -11,7 +11,7 @@ const developers = [
     isHired: true,
     babyPicture: 'src/images/babyPics/weeAleshaReed.jpg',
     podcastTrack: 'https://soundcloud.com/nashville-software-school/alesha-reed?in=nashville-software-school/sets/evening-10-demo-day',
-    demoVideo: '',
+    demoVideo: 'https://youtu.be/WhFJ-zgxHZI',
   },
   {
     id: 1,
@@ -24,7 +24,7 @@ const developers = [
     isHired: false,
     babyPicture: 'src/images/babyPics/weeAshleyClaiborne.jpg',
     podcastTrack: 'https://soundcloud.com/nashville-software-school/ashley-claiborne?in=nashville-software-school/sets/evening-10-demo-day',
-    demoVideo: '',
+    demoVideo: 'https://youtu.be/hfc23wYMSGQ',
   },
   {
     id: 2,
@@ -154,7 +154,7 @@ const developers = [
     isHired: false,
     babyPicture: 'src/images/babyPics/weeJamiePhillips.jpg',
     podcastTrack: 'https://soundcloud.com/nashville-software-school/jamie-phillips?in=nashville-software-school/sets/evening-10-demo-day',
-    demoVideo: '',
+    demoVideo: 'https://youtu.be/SH__8Kbk11I',
   },
   {
     id: 12,
@@ -180,7 +180,7 @@ const developers = [
     isHired: false,
     babyPicture: 'src/images/babyPics/weeJohnThielman.jpg',
     podcastTrack: 'https://soundcloud.com/nashville-software-school/john-thielman?in=nashville-software-school/sets/evening-10-demo-day',
-    demoVideo: '',
+    demoVideo: 'https://youtu.be/s3E5AVRPt1w',
   },
   {
     id: 14,
@@ -219,7 +219,7 @@ const developers = [
     isHired: false,
     babyPicture: 'src/images/babyPics/weeMariaBrock.jpg',
     podcastTrack: 'https://soundcloud.com/nashville-software-school/maria-brock?in=nashville-software-school/sets/evening-10-demo-day',
-    demoVideo: '',
+    demoVideo: 'https://youtu.be/PsACcqRCEMQ',
   },
   {
     id: 17,
