@@ -54,7 +54,21 @@ const devProfile = () => {
         </a>
         <a href="${developer[i].linkedin}" class="card-icon-link" target="_blank">
           <img src="src/images/icons/linkedIn_icon.png" class="cardIcon" alt="LinkedIn icon" />
+        </a>`;
+      if (developer[i].podcastTrack !== '') {
+        domString += `
+        <a href="${developer[i].podcastTrack}" class="card-icon-link" target="_blank">
+          <img src="src/images/icons/soundcloud_icon.png" class="cardIcon" alt="Soundcloud icon" />
+        </a>`;
+      }
+      if (developer[i].demoVideo !== '') {
+        domString += `
+        <a href="${developer[i].demoVideo}" class="card-icon-link" target=_blank">
+          <img src="src/images/icons/video_icon.png" class="cardIcon" alt="YouTube icon" />
         </a>
+        `;
+      }
+      domString += `      
       </div>
     </div>
     `;
